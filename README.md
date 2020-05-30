@@ -14,7 +14,7 @@
 
 
 <font size = "3"> <p> 
-Two graphs are shown above, one display the regression line with values from the training dataset and one with values from the test dataset. The green points of the scatter plot (for the test graph) represent the real values of height stored in the test dataset. The regression line (blue) represents the set of predicted values of height. Since all the points either lie on the line or lie very close to it, it can be said that choosing simple linear regression to make the model was a good decision. </p>
+Two graphs are shown above, one displaying the regression line with values from the training dataset and one with values from the test dataset. The green points of the scatter plot (for the test graph) represent the real values of height stored in the test dataset. The regression line (blue) represents the set of predicted values of height. Since all the points either lie on the line or lie very close to it, it can be said that choosing simple linear regression to make the model was a good decision. </p>
 
 #### **Conclusion:** 
 
